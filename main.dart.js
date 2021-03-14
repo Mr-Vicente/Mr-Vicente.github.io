@@ -59205,7 +59205,7 @@ case 2:q.a.c.t7(0,a)
 return P.a5(null,r)}})
 return P.a6($async$qI,r)},
 L:function(a,b){var s=null,r=K.ev(20),q=this.d,p=H.ao(q).j("aI<1,m3*>")
-return M.bY(s,T.k2(H.b([M.bY(s,U.BO("images/fred_logo.png",50,s),C.l,s,s,s,s,s,s,new V.at(5,5,5,5),s,s,s),T.QT(new U.r8(4,new E.vf(P.aB(new H.aI(q,new O.a2E(this),p),!0,p.j("bb.E")),C.b7,new O.a2F(this),s),s),1)],t._),C.fI,C.P),C.l,s,s,new S.bW(new P.C(4294919273),s,s,r,s,s,C.x),s,s,new V.at(8,8,8,8),new V.at(8,8,8,8),s,s,s)}}
+return M.bY(s,T.k2(H.b([M.bY(s,U.BO("./assets/images/fred_logo.png",50,s),C.l,s,s,s,s,s,s,new V.at(5,5,5,5),s,s,s),T.QT(new U.r8(4,new E.vf(P.aB(new H.aI(q,new O.a2E(this),p),!0,p.j("bb.E")),C.b7,new O.a2F(this),s),s),1)],t._),C.fI,C.P),C.l,s,s,new S.bW(new P.C(4294919273),s,s,r,s,s,C.x),s,s,new V.at(8,8,8,8),new V.at(8,8,8,8),s,s,s)}}
 O.a2I.prototype={
 $0:function(){var s=this.a,r=s.a.c.d
 if(r.length!==0){r=C.b.gbu(r).y
@@ -59423,7 +59423,7 @@ L:function(a,b){var s=null
 return M.bY(s,T.h4(H.b([T.bU(s,50,s),new K.oo("Reach out to me!","For further information",new P.C(4294919273),s),new Z.Aj(s)],t._),C.aN,C.a7,C.P),C.l,s,s,new S.bW(new P.C(4293456121),s,s,s,s,s,C.x),s,s,s,new V.at(0,0,0,60),s,s,1/0)}}
 Z.Aj.prototype={
 L:function(a,b){var s=null,r=4293456121,q=K.akS(new P.bO(20,20)),p=t._
-return M.bY(s,T.h4(H.b([T.k2(H.b([new Q.m0("images/github_logo.png","MrVicente",new P.C(r),new Z.OT(),s),new Q.m0("images/linkdin_logo.png","/Frederico--Vicente",new P.C(r),new Z.OU(),s),new Q.m0("images/instagram_logo.png","@Frederico__Vicente",new P.C(r),new Z.OV(),s)],p),C.jX,C.P),T.bU(s,40,s),new Z.Ak(s)],p),C.aN,C.a7,C.P),C.l,s,new S.av(0,1110,0,1/0),new S.bW(C.j,s,s,q,s,s,C.x),s,s,new V.at(0,40,0,0),new V.at(60,60,60,60),s,s,s)}}
+return M.bY(s,T.h4(H.b([T.k2(H.b([new Q.m0("./assets/images/github_logo.png","MrVicente",new P.C(r),new Z.OT(),s),new Q.m0("./assets/images/linkdin_logo.png","/Frederico--Vicente",new P.C(r),new Z.OU(),s),new Q.m0("./assets/images/instagram_logo.png","@Frederico__Vicente",new P.C(r),new Z.OV(),s)],p),C.jX,C.P),T.bU(s,40,s),new Z.Ak(s)],p),C.aN,C.a7,C.P),C.l,s,new S.av(0,1110,0,1/0),new S.bW(C.j,s,s,q,s,s,C.x),s,s,new V.at(0,40,0,0),new V.at(60,60,60,60),s,s,s)}}
 Z.OT.prototype={
 $0:function(){window.location.href="https://github.com/Mr-Vicente"},
 $S:1}
@@ -59434,7 +59434,7 @@ Z.OV.prototype={
 $0:function(){window.location.href=u.L},
 $S:1}
 Z.Ak.prototype={
-L:function(a,b){var s=null,r=T.adL(H.b([T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter Your Name",s,s,s,!1,s,s,"Your Name",s,s,s,s,s,s,s,s,s,s,s),new Z.OW()),s,470),T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter your email address",s,s,s,!1,s,s,"Email Address",s,s,s,s,s,s,s,s,s,s,s),new Z.OX()),s,470),T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Tell me what is this about",s,s,s,!1,s,s,"Subject",s,s,s,s,s,s,s,s,s,s,s),new Z.OY()),s,470),T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Write some description",s,s,s,!1,s,s,"Description",s,s,s,s,s,s,s,s,s,s,s),new Z.OZ()),s,s),T.bU(s,40,s),T.qS(new K.nc("images/contact_logo.png","Contact Me!",new P.C(4293456121),new Z.P_(),s),s,s)],t._),30,50)
+L:function(a,b){var s=null,r=T.adL(H.b([T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter Your Name",s,s,s,!1,s,s,"Your Name",s,s,s,s,s,s,s,s,s,s,s),new Z.OW()),s,470),T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Enter your email address",s,s,s,!1,s,s,"Email Address",s,s,s,s,s,s,s,s,s,s,s),new Z.OX()),s,470),T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Tell me what is this about",s,s,s,!1,s,s,"Subject",s,s,s,s,s,s,s,s,s,s,s),new Z.OY()),s,470),T.bU(E.ZX(L.BX(s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,"Write some description",s,s,s,!1,s,s,"Description",s,s,s,s,s,s,s,s,s,s,s),new Z.OZ()),s,s),T.bU(s,40,s),T.qS(new K.nc("./assets/images/contact_logo.png","Contact Me!",new P.C(4293456121),new Z.P_(),s),s,s)],t._),30,50)
 return new A.rK(r,C.dh,s)}}
 Z.OW.prototype={
 $1:function(a){},
@@ -59457,10 +59457,10 @@ m.toString
 return T.a7m(r,new T.zc(q,M.bY(s,T.h4(H.b([o,O.k4("Computer Science Student",n.d.f6(m),s),T.bU(s,10,s),O.k4("Nova School of Technology | NOVA FCT",K.aN(b).ae.f.f6(C.k4),s)],t._),C.b8,C.dW,C.P),C.l,p,s,s,s,250,s,new V.at(40,40,40,40),s,s,this.c.a*0.6),s))}}
 V.CE.prototype={
 L:function(a,b){var s=null
-return M.bY(s,T.a7m(K.ev(100),M.bY(s,U.BO("images/profile_pic.jpg",s,s),C.l,s,new S.av(0,200,0,200),s,s,s,s,s,s,s,s)),C.l,s,s,new S.bW(s,s,F.akT(C.k4,2),K.ev(100),s,s,C.x),s,s,s,s,s,s,s)}}
+return M.bY(s,T.a7m(K.ev(100),M.bY(s,U.BO("./assets/images/profile_pic.jpg",s,s),C.l,s,new S.av(0,200,0,200),s,s,s,s,s,s,s,s)),C.l,s,s,new S.bW(s,s,F.akT(C.k4,2),K.ev(100),s,s,C.x),s,s,s,s,s,s,s)}}
 Y.BI.prototype={
 L:function(a,b){var s=null,r=t._
-return M.bY(C.a3,M.bY(s,T.oQ(C.bi,H.b([T.h4(H.b([new R.v3(s),new O.BD(b.ad(t.w).f.a,s),new R.v3(s)],r),C.b8,C.a7,C.P),T.DB(s,new V.CE(s),s,s,s,20,160,s)],r),C.bh),C.l,s,s,s,s,s,s,s,s,s,1200),C.l,s,s,new S.bW(s,new X.AE(new L.mT("images/friend.jpg",s,s),C.im),s,s,s,s,C.x),s,500,s,s,s,s,s)}}
+return M.bY(C.a3,M.bY(s,T.oQ(C.bi,H.b([T.h4(H.b([new R.v3(s),new O.BD(b.ad(t.w).f.a,s),new R.v3(s)],r),C.b8,C.a7,C.P),T.DB(s,new V.CE(s),s,s,s,20,160,s)],r),C.bh),C.l,s,s,s,s,s,s,s,s,s,1200),C.l,s,s,new S.bW(s,new X.AE(new L.mT("./assets/images/friend.jpg",s,s),C.im),s,s,s,s,C.x),s,500,s,s,s,s,s)}}
 M.uh.prototype={
 az:function(){return new M.JE(C.k)}}
 M.JE.prototype={
@@ -64414,8 +64414,8 @@ s($,"atL","agV",function(){var p=null,o=t.N
 return new N.LL(P.bm(20,p,!1,t.T),0,new N.SY(H.b([],t.d)),p,P.w(o,H.S("fz<aoC>")),P.w(o,H.S("aoC")),P.aoE(t.K,o),0,p,!1,!1,p,H.afC(),0,p,H.afC(),N.adR(),N.adR())})
 q($,"ave","a6V",function(){var p=P.amJ(0,20)
 return O.al0(50,C.r.a5D(0.1),p,0)})
-q($,"avl","a6Y",function(){var p="https://github.com/Mr-Vicente/generate_datasets",o="Incoming...",n="None",m="images/friend.jpg"
-return H.b([K.VG("Research",1,"images/WGAN-GP_Cartoon.png",p,"Generative Models to Better Perceive Classifier Predictions"),K.VG(n,2,m,p,o),K.VG(n,3,m,p,o),K.VG(n,4,m,p,o)],H.S("r<DJ*>"))})
+q($,"avl","a6Y",function(){var p="https://github.com/Mr-Vicente/generate_datasets",o="Incoming...",n="None",m="./assets/images/friend.jpg"
+return H.b([K.VG("Research",1,"./assets/images/WGAN-GP_Cartoon.png",p,"Generative Models to Better Perceive Classifier Predictions"),K.VG(n,2,"./assetsimages/friend.jpg",p,o),K.VG(n,3,m,p,o),K.VG(n,4,m,p,o)],H.S("r<DJ*>"))})
 q($,"auA","MT",function(){return P.fe(t.z,H.S("Ag<@>*"))})})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
