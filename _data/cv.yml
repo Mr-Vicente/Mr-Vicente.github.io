@@ -7,9 +7,9 @@
       value: 2nd October 1999
     - name: Languages
       value: Portuguese, English, German
-    - name: url
+    - name: Url
       value: "https://alshedivat.github.io/mr-vicente/"
-    - name: summary
+    - name: Summary
       value: > I'm a passionate PhD Student specializing in Machine Learning, particularly in Federated Learning. I find
   leveraging uncertainty in machine learning fascinating because it enhances the reliability of learning
   mechanisms. I have a strong track record in pioneering NLP pipelines for real-world projects, and my research
