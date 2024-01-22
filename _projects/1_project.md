@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Alexa Prize TaskBot Challenge 
+description: The challenge is focused on developing agents that assist customers in completing tasks requiring multiple steps and decisions. It's the first conversational AI challenge to incorporate multimodal (voice and vision) customer experiences.
+img: assets/img/alexa_team.jpeg
 importance: 1
 category: work
 related_publications: true

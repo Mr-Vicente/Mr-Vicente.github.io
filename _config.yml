@@ -6,7 +6,7 @@ title: Frederico Vicente # the website title (if blank, full name will be used i
 first_name: Frederico
 middle_name: M.
 last_name: Vicente
-email: you@example.com
+email: fm.vicente@campus.fct.unl.pt
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I'm a passionate PhD Student specializing in Machine Learning, particularly in Federated Learning. I find leveraging uncertainty in machine learning fascinating because it enhances the reliability of learning mechanisms. I have a strong track record in pioneering NLP pipelines for real-world projects, and my research interests encompass Bayesian Inference, Optimization, Federated Learning, Cloud Computing, Privacy-constrained Learning, NLP, and MLOps. I'm committed to advancing the boundaries of machine learning and its practical applications.
 footer_text: >
