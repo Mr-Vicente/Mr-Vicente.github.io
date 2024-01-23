@@ -28,5 +28,3 @@ This is achieved through four key principles: a) robust dialog interaction, by m
 
 Check our published <a href="https://www.amazon.science/alexa-prize/proceedings/twiz-a-conversational-task-wizard-with-multimodal-curiosity-exploration">paper</a>
 {% cite amazon_science_twiz %}.
-
-{% endraw %}
