@@ -19,12 +19,7 @@
       institution: NOVA School Of Science And Technology
       year: 2023 - ...
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Informed Federated Learning
     - title: Integrated Masters in Coumputer Science
       institution: NOVA School Of Science And Technology
       year: 2017 - 2022
@@ -38,12 +33,7 @@
       institution: TxtReplay
       year: 2023 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Developed a version controller system for writing documents
 
 - title: Honors and Awards
   type: time_table

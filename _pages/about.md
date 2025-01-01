@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>fm.vicente@campus.fct.unl.pt</p>
-    <p>PhD in Machine Learning</p>
-    <p>Lisbon, Portugal</p>
+    <p>PhD Student in Machine Learning</p>
+    <p>Nova School of Science and Technology (NOVA FCT, Portugal)</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts

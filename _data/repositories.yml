@@ -2,4 +2,6 @@ github_users:
   - Mr-Vicente
 
 github_repos:
+  - Mr-Vicente/Curiosity-Dataset
+  - Mr-Vicente/explicit_commonsense
   - Mr-Vicente/generate_datasets
