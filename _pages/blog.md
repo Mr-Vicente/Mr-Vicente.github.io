@@ -22,6 +22,7 @@ after: 3 # The number of links after the current page
 {% assign blog_description_size = site.blog_description | size %}
 
 {% if blog_name_size > 0 or blog_description_size > 0 %}
+
 <div class="header-bar">
 <h1>{{ site.blog_name }}</h1>
 <h2>{{ site.blog_description }}</h2>
@@ -31,6 +32,7 @@ after: 3 # The number of links after the current page
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
+
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
 <div class="row row-cols-{% if featured_posts.size <= 2 or is_even == 0 %}2{% else %}3{% endif %}">
