@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Started teaching Theory of Computation @ NOVA School of Science and Technology
-

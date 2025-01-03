@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Conducted Research as a visiting PhD student @ Carnegie Mellon University (CMU)
-
